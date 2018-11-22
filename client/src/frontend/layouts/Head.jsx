@@ -22,8 +22,7 @@ class Head extends React.Component {
 
 						<Link to="/">Ride Beam</Link>
 					</Typography>
-					<Button><Link to="/trip">Trip</Link></Button>				
-
+					<Button><Link to="/trip"><b>Trip</b></Link></Button>
 				</Toolbar>
 			</AppBar>
 		);
